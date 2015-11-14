@@ -1,0 +1,23 @@
+#!/usr/bin/make -f
+
+package = galliumos-base
+build:
+	touch build
+
+clean:
+	rm -f build
+	rm -f `find . -name "*~"`
+	rm -rf debian/tmp 
+
+binary-arch: build
+	rm -rf debian/tmp
+	install -d debian/tmp/DEBIAN
+	install -d debian/tmp/usr/share/icons
+	cp -r Numix* debian/tmp/usr/share/icons
+	chmod -R a+rX debian/tmp/usr/share/icons
+	dpkg-gencontrol -pnumix-icons-galliumos
+	dpkg-deb --build -Zgzip debian/tmp ..
+
+binary: binary-arch
+
+.PHONY: binary binary-arch clean

@@ -1,0 +1,13 @@
+Source: numix-icons-galliumos
+Section: misc
+Priority: optional
+Maintainer: Hugh Greenberg <hugh@galliumos.org>
+XSBC-Original-Maintainer: Hugh Greenberg <hugh@galliumos.org>
+Standards-Version: 3.9.1
+
+Package: numix-icons-galliumos
+Provides: base
+Architecture: any
+Priority: optional
+Depends: xubuntu-icon-theme
+Description: Numix icons with small customizations for GalliumOS

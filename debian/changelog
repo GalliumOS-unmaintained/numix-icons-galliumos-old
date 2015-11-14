@@ -1,0 +1,23 @@
+numix-icons-galliumos (1.0.3) vivid-galliumos; urgency=medium
+
+  * Added elementary Xfce as the first parent
+
+ -- Hugh Greenberg <hugh@galliumos.org>  Fri, 30 Oct 2015 22:16:16 -0600
+
+numix-icons-galliumos (1.0.2) vivid-galliumos; urgency=medium
+
+  * Fixes for theme names and inheritance
+
+ -- Hugh Greenberg <hugh@galliumos.org>  Sat, 17 Oct 2015 22:16:16 -0600
+
+numix-icons-galliumos (1.0.1) vivid-galliumos; urgency=medium
+
+  * Fixes for theme names and inheritance
+
+ -- Hugh Greenberg <hugh@galliumos.org>  Thu, 15 Oct 2015 22:16:16 -0600
+
+numix-icons-galliumos (1.0) vivid-galliumos; urgency=medium
+
+  * Initial release.
+
+ -- Hugh Greenberg <hugh@galliumos.org>  Thu, 15 Oct 2015 22:16:16 -0600
