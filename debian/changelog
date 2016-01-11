@@ -1,3 +1,12 @@
+numix-icons-galliumos (0git20151013.129da4d-galliumos3) vivid-galliumos; urgency=medium
+
+  * Set package version to match provenance
+  * Multiple upstreams (should probably be separate repos and pkgs)
+    - https://github.com/numixproject/numix-icon-theme 20151014.1198157
+    - https://github.com/numixproject/numix-icon-theme-circle 20151013.129da4d
+
+ -- reynhout <reynhout@galliumos.org>  Sun, 10 Jan 2016 21:05:33 +0000
+
 numix-icons-galliumos (1.0.3) vivid-galliumos; urgency=medium
 
   * Added elementary Xfce as the first parent
