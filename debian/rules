@@ -8,6 +8,7 @@ clean:
 	rm -f build
 	rm -f `find . -name "*~"`
 	rm -rf debian/tmp 
+	rm -f debian/files debian/files.new
 
 binary-arch: build
 	rm -rf debian/tmp
