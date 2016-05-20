@@ -12,7 +12,7 @@
    viewBox="0 0 16 16"
    id="svg3351"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="nm-signal-25.svg">
   <metadata
      id="metadata3377">
@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      id="namedview3373"
      showgrid="true"
      inkscape:zoom="29.5"
      inkscape:cx="0.37667229"
      inkscape:cy="5.3503583"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3351">
     <inkscape:grid
@@ -55,13 +55,13 @@
   <path
      id="path18-7"
      d="m 8.0000001,1.8823525 c -3.111111,0 -4.976712,0.876023 -7,2.3897059 l 7,9.8455886 L 15,4.2720584 C 12.976711,2.7583755 11.111111,1.8823525 8.0000001,1.8823525 Z"
-     style="color:#000000;line-height:normal;fill:#ececec;fill-opacity:1;opacity:0.4"
+     style="color:#000000;line-height:normal;fill:#808080;fill-opacity:1;opacity:0.4"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="scccs" />
   <path
      id="path18-7-9"
      d="m 8.0000002,11.058897 c -0.777759,0 -1.244148,0.219 -1.7499578,0.597412 l 1.7499578,2.461338 1.7499574,-2.461338 C 9.2441476,11.277897 8.7777592,11.058897 8.0000002,11.058897 Z"
-     style="color:#000000;line-height:normal;fill:#ececec;fill-opacity:1"
+     style="color:#000000;line-height:normal;fill:#999999;fill-opacity:1"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="scccs" />
 </svg>

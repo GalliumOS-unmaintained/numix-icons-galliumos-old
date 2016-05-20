@@ -12,8 +12,8 @@
    viewBox="0 0 16 16"
    id="svg3351"
    version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="nm-signal-00-secure.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="nm-signal-0-secure.svg">
   <metadata
      id="metadata3377">
     <rdf:RDF>
@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      id="namedview3373"
      showgrid="true"
      inkscape:zoom="29.5"
      inkscape:cx="0.37667229"
      inkscape:cy="5.3503583"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3351">
     <inkscape:grid
@@ -55,12 +55,12 @@
   <path
      id="path18-7"
      d="m 8.0000001,1.8823525 c -3.111111,0 -4.976712,0.876023 -7,2.3897059 l 7,9.8455886 L 15,4.2720584 C 12.976711,2.7583755 11.111111,1.8823525 8.0000001,1.8823525 Z"
-     style="color:#000000;line-height:normal;fill:#ececec;fill-opacity:1;opacity:0.4"
+     style="color:#000000;line-height:normal;fill:#808080;fill-opacity:1;opacity:0.4"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="scccs" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#ececec;fill-opacity:1"
+     style="fill:#808080;fill-opacity:1"
      d="m 13.816406,9.4526868 c -0.804687,0 -1.453125,0.6640632 -1.453125,1.4804692 l 0,0.703125 c -0.402343,0 -0.726562,0.324219 -0.726562,0.726562 l 0,2.183594 c 0,0.402344 0.324219,0.726563 0.726562,0.726563 l 2.910157,0 C 15.675781,15.273 16,14.948781 16,14.546437 l 0,-2.183594 C 16,11.9605 15.675781,11.636281 15.273438,11.636281 l 0,-0.703125 c 0,-0.816406 -0.648438,-1.4804692 -1.457032,-1.4804692 z m 0,0.7304692 c 0.40625,0 0.730469,0.320312 0.730469,0.726562 l 0,0.726563 -1.457031,0 0,-0.726563 c 0,-0.40625 0.324218,-0.726562 0.726562,-0.726562 z"
      id="path3403" />
 </svg>

@@ -1,3 +1,9 @@
+numix-icons-galliumos (0git20151013.129da4d-galliumos4) xenial; urgency=medium
+
+  * Darkened network manager signal icons
+
+ -- Hugh Greenberg <hugh@galliumos.org>  Fri, 20 May 2016 21:05:33 +0000
+
 numix-icons-galliumos (0git20151013.129da4d-galliumos3) vivid-galliumos; urgency=medium
 
   * Set package version to match provenance
