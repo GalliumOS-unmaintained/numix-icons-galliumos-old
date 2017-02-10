@@ -1,27 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
- <defs>
-  <radialGradient id="radialGradient3031" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.10447761,0,50.597015)" cx="32.5" cy="56.5" r="33.5">
-   <stop style="stop-color:#000;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#000;stop-opacity:0"/>
-  </radialGradient>
- </defs>
- <g transform="translate(0,-1020.3622)">
-  <path d="m 66 56.5 a 33.5 3.5 0 1 1 -67 0 33.5 3.5 0 1 1 67 0 z" transform="matrix(0.71641791,0,0,0.85714286,-7.2835821,999.9336)" style="fill:url(#radialGradient3031);opacity:0.3;fill-opacity:1;stroke:none"/>
-  <g transform="matrix(0.5,0,0,0.5,39,520.6811)">
-   <path d="m -78 1008.42 0 42.823 64 0 0 -21.412 -3.048 -18.353 l -23.952 -0.118 l -3 -6 -30.952 0 c -1.524 0 -3.048 1.529 -3.048 3.059 z" style="fill:#e65100;fill-opacity:1;stroke:none"/>
-   <rect y="1013.36" x="-73" height="11.882" width="31.571" style="fill:#fffdf0;fill-opacity:1;stroke:none"/>
-   <path d="m -74.938 1005.36 c -1.524 0 -3.063 1.533 -3.063 3.063 l 0 2 c 0 -1.529 1.539 -3.063 3.063 -3.063 l 29.938 0 3 6 24.938 0.125 3.063 18.344 0 -2 -3.063 -18.344 -23.938 -0.125 -3 -6 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
-   <path d="m -14 1014.54 0 42.824 -64 0 0 -40 30 0 3 -6 27.952 0.118 c 1.524 0 3.048 1.529 3.048 3.059 z" style="fill:#f57c00;fill-opacity:1;stroke:none"/>
-   <path d="m -78 1055.36 0 2 64 0 0 -2 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
-   <path d="m -45 1011.36 -3 6 -30 0 0 2 31 0 3 -6 26.938 0.125 c 1.524 0 3.063 1.533 3.063 3.063 l 0 -2 c 0 -1.529 -1.539 -3.063 -3.063 -3.063 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
-   <g transform="matrix(2,0,0,2,-17.15747,-1029.5912)" style="opacity:1">
-    <g transform="translate(-22.421265,1025.4767)" style="fill:#ab5d0b;fill-opacity:1">
-     <g transform="translate(0,-1036.3622)" style="fill-rule:evenodd">
-      <path d="m 1 1046.36 4 -5 3.282 3.678 2.218 -2.178 4.5 6.5 -3 2 -9 0 z"/>
-     </g>
-    </g>
-    <path d="m -19.421 1026.48 c -1.108 0 -2 0.892 -2 2 l 0 10 c 0 1.108 0.892 2 2 2 l 10 0 c 1.108 0 2 -0.892 2 -2 l 0 -10 c 0 -1.108 -0.892 -2 -2 -2 z m 0 2 10 0 0 10 -10 0 z" style="fill:#ab5d0b;fill-opacity:1"/>
-   </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="orange-folder-pictures.svg"
+   inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png"
+   inkscape:export-xdpi="270"
+   inkscape:export-ydpi="270">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.953468"
+     inkscape:cx="15.713211"
+     inkscape:cy="15.087632"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f57c00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28612947;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 2.03125 4 C 1.4665378 4.056 0.99079304 4.58885 1 5.15625 L 1 26.84375 C 0.99302 27.45105 1.5489584 28.007 2.15625 28 L 29.84375 28 C 30.451042 28.01 31.006984 27.45105 31 26.84375 L 31 7.15625 C 31.007 6.54895 30.451042 5.993 29.84375 6 L 19 6 L 19 5.15625 C 19.0069 4.55935 18.471863 4.0095 17.875 4 L 2.15625 4 L 2.03125 4 z M 11 10 L 21 10 C 22.108 10 23 10.892 23 12 L 23 22 C 23 23.108 22.108 24 21 24 L 20 24 L 11 24 C 9.892 24 9 23.108 9 22 L 9 19 L 9 12 C 9 10.892 9.892 10 11 10 z M 11 12 L 11 16.5 L 13 14 L 16.28125 17.6875 L 18.5 15.5 L 21 19.125 L 21 12 L 11 12 z "
+       transform="translate(0,1020.3622)"
+       id="path3912" />
   </g>
- </g>
 </svg>

@@ -1,9 +1,9 @@
 [Icon Theme]
-Name=Numix Light
+Name=Numix Light GalliumOS
 
 Comment=Icon for light themes from Numix Project
 
-Inherits=Numix
+Inherits=Numix-GalliumOS
 
 Example=folder
 
@@ -11,47 +11,63 @@ Directories=16/animations,16/apps,16/panel,16/status,22/animations,22/apps,22/pa
 
 [16/animations]
 Size=16
+MinSize=8
+MaxSize=21
 Context=Animations
-Type=Fixed
+Type=Scalable
 
 [16/apps]
 Size=16
+MinSize=8
+MaxSize=21
 Context=Applications
-Type=Fixed
+Type=Scalable
 
 [16/panel]
 Size=16
+MinSize=8
+MaxSize=21
 Context=Panel
-Type=Fixed
+Type=Scalable
 
 [16/status]
 Size=16
+MinSize=8
+MaxSize=21
 Context=Status
-Type=Fixed
+Type=Scalable
 
 [16@2x/animations]
 Size=16
 Scale=2
+MinSize=8
+MaxSize=21
 Context=Animations
-Type=Fixed
+Type=Scalable
 
 [16@2x/apps]
 Size=16
 Scale=2
+MinSize=8
+MaxSize=21
 Context=Applications
-Type=Fixed
+Type=Scalable
 
 [16@2x/panel]
 Size=16
 Scale=2
+MinSize=8
+MaxSize=21
 Context=Panel
-Type=Fixed
+Type=Scalable
 
 [16@2x/status]
 Size=16
 Scale=2
+MinSize=8
+MaxSize=21
 Context=Status
-Type=Fixed
+Type=Scalable
 
 [22/animations]
 Size=22
@@ -62,86 +78,116 @@ Type=Scalable
 
 [22/apps]
 Size=22
+MinSize=8
+MaxSize=23
 Context=Applications
-Type=Fixed
+Type=Scalable
 
 [22/panel]
 Size=22
+MinSize=8
+MaxSize=23
 Context=Panel
-Type=Fixed
+Type=Scalable
 
 [22/status]
 Size=22
+MinSize=8
+MaxSize=23
 Context=Status
-Type=Fixed
+Type=Scalable
 
 [22@2x/animations]
 Size=22
 Scale=2
+MinSize=8
+MaxSize=23
 Context=Animations
-Type=Fixed
+Type=Scalable
 
 [22@2x/apps]
 Size=22
 Scale=2
+MinSize=8
+MaxSize=23
 Context=Applications
-Type=Fixed
+Type=Scalable
 
 [22@2x/panel]
 Size=22
 Scale=2
+MinSize=8
+MaxSize=23
 Context=Panel
-Type=Fixed
+Type=Scalable
 
 [22@2x/status]
 Size=22
 Scale=2
+MinSize=8
+MaxSize=23
 Context=Status
-Type=Fixed
+Type=Scalable
 
 [24/animations]
 Size=24
+MinSize=8
+MaxSize=31
 Context=Animations
-Type=Fixed
+Type=Scalable
 
 [24/apps]
 Size=24
+MinSize=8
+MaxSize=31
 Context=Applications
-Type=Fixed
+Type=Scalable
 
 [24/panel]
 Size=24
+MinSize=8
+MaxSize=31
 Context=Panel
-Type=Fixed
+Type=Scalable
 
 [24/status]
 Size=24
+MinSize=8
+MaxSize=31
 Context=Status
-Type=Fixed
+Type=Scalable
 
 [24@2x/animations]
 Size=24
 Scale=2
+MinSize=8
+MaxSize=31
 Context=Animations
-Type=Fixed
+Type=Scalable
 
 [24@2x/apps]
 Size=24
 Scale=2
+MinSize=8
+MaxSize=31
 Context=Applications
-Type=Fixed
+Type=Scalable
 
 [24@2x/panel]
 Size=24
 Scale=2
+MinSize=8
+MaxSize=31
 Context=Panel
-Type=Fixed
+Type=Scalable
 
 [24@2x/status]
 Size=24
 Scale=2
+MinSize=8
+MaxSize=31
 Context=Status
-Type=Fixed
+Type=Scalable
 
 [scalable/actions]
 Size=16
@@ -169,13 +215,6 @@ Size=16
 MinSize=16
 MaxSize=512
 Context=Emblems
-Type=Scalable
-
-[scalable/emotes]
-Size=16
-MinSize=16
-MaxSize=512
-Context=Emotes
 Type=Scalable
 
 [scalable/mimetypes]

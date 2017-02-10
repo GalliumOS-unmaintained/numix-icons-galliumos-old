@@ -1,24 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
- <defs>
-  <radialGradient r="11" cy="19" cx="11" gradientTransform="matrix(1,0,0,0.09090909,0,17.272727)" gradientUnits="userSpaceOnUse" id="radialGradient3783">
-   <stop style="stop-color:#000;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#000;stop-opacity:0"/>
-  </radialGradient>
- </defs>
- <g transform="translate(0,-1028.3622)">
-  <path d="M 22 19 A 11 1 0 1 1 0 19 11 1 0 1 1 22 19 z" transform="matrix(1.1818182,0,0,1,-1,1030.3622)" style="fill:url(#radialGradient3783);opacity:0.25;fill-opacity:1;stroke:none"/>
-  <path d="m 1 1032.36 0 14 22 0 0 -7 -1 -6 -8 0 -1 -2 -11 0 c -0.5 0 -1 0.5 -1 1 z" style="fill:#757575;fill-opacity:1;stroke:none"/>
-  <path d="m 2 1031.36 c -0.5 0 -1 0.5 -1 1 l 0 1 c 0 -0.5 0.5 -1 1 -1 l 10 0 1 2 9 0 0 6 0 -1 0 -6 -8 0 -1 -2 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
-  <rect width="10" height="4" x="3" y="1034.36" style="fill:#fffdf0;fill-opacity:1;stroke:none"/>
-  <path d="m 23 1034.43 0 14.933 -22 0 0 -14 11 0 1 -2 9 0 c 0.5 0 1 0.533 1 1.067 z" style="fill:#bdbdbd;fill-opacity:1;stroke:none"/>
-  <path d="m 1 1048.36 0 1 22 0 0 -1 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
-  <path d="m 13 1033.36 -1 2 -11 0 0 1 12 0 1 -2 8 0 c 0.5 0 1 0.5 1 1 l 0 -1 c 0 -0.5 -0.5 -1 -1 -1 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
-  <g transform="translate(19.607183,11.874895)" style="opacity:1">
-   <rect ry="0.486" rx="0.5" y="1034.49" x="-12.607" height="1" width="10" style="fill:#7f7f7f;fill-opacity:1;stroke:none"/>
-   <rect transform="matrix(0,1,-1,0,0,0)" width="6" height="1" x="1029.49" y="11.607" rx="0.5" ry="0.378" style="fill:#7f7f7f;fill-opacity:1;stroke:none"/>
-   <rect rx="0.5" y="2.607" x="1029.49" height="1" width="6" transform="matrix(0,1,-1,0,0,0)" style="fill:#7f7f7f;fill-opacity:1;stroke:none"/>
-   <path d="m -6.976 1033.01 c -0.632 0.632 -0.632 0.632 -1.263 0 l -1.895 -1.895 c -0.632 -0.632 -0.632 -0.632 0 -0.632 l 5.05 0 c 0.632 0 0.632 0 0 0.632 z" style="fill:#7f7f7f;fill-opacity:1;stroke:none"/>
-   <rect rx="1" y="1025.49" x="-8.607" height="7" width="2" style="fill:#7f7f7f;fill-opacity:1;stroke:none"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="grey-folder-download.svg"
+   inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/numix-wiki/Gjorgi/Numix-folders/48/New/folder-144.png"
+   inkscape:export-xdpi="270"
+   inkscape:export-ydpi="270">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.38075"
+     inkscape:cx="19.102964"
+     inkscape:cy="5.4827467"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bdbdbd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.52408636;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 2.6250001,1032.3622 c -0.3474302,0.063 -0.6251471,0.3968 -0.625,0.75 l 0,14.5 c 0.00617,0.391 0.3590206,0.7438 0.75,0.75 l 18.4999999,0 c 0.390979,-0.01 0.74383,-0.359 0.75,-0.75 l 0,-12.4375 c -0.0062,-0.391 -0.359021,-0.8063 -0.75,-0.8125 l -7.25,0 0,-1.25 c -0.0062,-0.391 -0.359021,-0.7438 -0.75,-0.75 l -10.6249999,0 z m 9.3749999,4 c 0.554,0 1,0.446 1,1 l 0,4 1.53125,0 c 0.631579,0 0.631579,-0.01 0,0.625 l -1.90625,1.9063 c -0.631579,0.6316 -0.618421,0.6316 -1.25,0 l -1.9062499,-1.9063 c -0.631579,-0.6316 -0.631579,-0.625 0,-0.625 l 1.5312499,0 0,-4 c 0,-0.554 0.446,-1 1,-1 z m -4.6249999,4 0.25,0 c 0.2091845,0 0.375,0.223 0.375,0.5 l 0,4.5 7.9999999,0 0,-4.5 c 0,-0.277 0.223,-0.5 0.5,-0.5 0.277,0 0.5,0.223 0.5,0.5 l 0,5 c 0,0.069 -0.006,0.1276 -0.03125,0.1875 -0.0031,0.01 0.0035,0.023 0,0.031 -0.08044,0.1679 -0.269445,0.2812 -0.46875,0.2812 l -8.8749999,0 -0.125,0 -0.125,0 c -0.022125,0 -0.041438,-0.026 -0.0625,-0.031 -0.078503,-0.018 -0.1336881,-0.054 -0.1875,-0.125 -0.021077,-0.028 -0.046881,-0.06 -0.0625,-0.094 -0.01198,-0.022 -0.022662,-0.039 -0.03125,-0.062 -0.019057,-0.06 -0.03125,-0.1182 -0.03125,-0.1875 l 0,-5 c 0,-0.277 0.1658155,-0.5 0.375,-0.5 z"
+       id="path3912"
+       inkscape:connector-curvature="0" />
   </g>
- </g>
 </svg>
