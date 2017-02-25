@@ -2,7 +2,7 @@
 Name=Numix Circle GalliumOS
 Comment=Numix icon theme with a circular apps icons design
 
-Inherits=Numix-GalliumOS,Numix-Circle
+Inherits=Numix-GalliumOS
 
 Example=directory-x-normal
 

@@ -3,7 +3,7 @@ Name=Numix Light GalliumOS
 
 Comment=Icon for light themes from Numix Project
 
-Inherits=Numix-GalliumOS,Numix-Circle-Light
+Inherits=Numix-GalliumOS
 
 Example=folder
 
